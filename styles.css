@@ -181,6 +181,11 @@ section { margin-bottom: 2.6rem; }
   font-variant-numeric: tabular-nums;
 }
 
+.service .venue {
+  margin-right: 0.4rem;
+  vertical-align: 0.1em;
+}
+
 footer {
   color: var(--muted);
   font-size: 0.9rem;
